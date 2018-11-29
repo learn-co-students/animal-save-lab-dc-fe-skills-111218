@@ -18,5 +18,8 @@ html {
   right: 0;
 }
 
-/* Write your solution here */
+#dolphin {
+  position:absolute;
+  top:100px;
+}
 
